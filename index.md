@@ -7,3 +7,9 @@
 FireTV Connect is a simple python module for remote-controlling a FireTV or FireTV stick using ADB. Below is the link
 #
 ["Fire TV Connect"](https://github.com/zapinator3000/FireTVConnect)
+# 
+Or with git:
+#
+``` 
+sudo git clone https://github.com/zapinator3000/FireTVConnect.git
+```
